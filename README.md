@@ -128,4 +128,4 @@ Os dados foram organizados em tabelas e gráficos comparativos.
 
 Explicação completa do projeto, código-fonte e análise dos resultados:
 
-📎 [Inserir link do vídeo aqui]
+https://youtu.be/mIbOoCYMQEI
